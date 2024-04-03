@@ -8,9 +8,7 @@
 
 ### Install the module
 ```
-npm install nuxt3-interpolation
-# or
-yarn add nuxt3-interpolation
+npx nuxi@latest module add nuxt3-interpolation
 ```
 
 ```javascript
